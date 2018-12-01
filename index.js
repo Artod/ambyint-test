@@ -60,4 +60,4 @@ function processCmd(cmd, ...args) {
   return ''
 }
 
-query(`The year is 1977, Star Wars: A New Hope has just been released. The true hero of the film, R2-D2 has acquired Death Star plans and needs to deliver them to Obi Wan Kenobi on the surface of Tatooine to help ensure victory for the rebellion. The problem is that upon landing R2-D2 has lost all autonomy and needs your to help guide him safely to Obi Wan Kenobi through manual commands. \n\n${availCmds}`)
+query(`The year is 1977, Star Wars: A New Hope has just been released. The true hero of the film, R2-D2 has acquired Death Star plans and needs to deliver them to Obi Wan Kenobi on the surface of Tatooine to help ensure victory for the rebellion. The problem is that upon landing R2-D2 has lost all autonomy and needs your to help guide him safely to Obi Wan Kenobi through manual commands. \n\n${availCmds} \n\nEnter a command:`)

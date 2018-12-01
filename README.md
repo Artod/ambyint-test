@@ -1,5 +1,12 @@
-## R2-D2 Exercise
+To run this app on your local machine, follow the steps below:
 
+- Clone this repo: `git clone https://github.com/Artod/ambyint-test.git`
+- Go into the folder: `cd ambyint-test`
+- Install dependencies: `npm install`
+- Start it: `npm start`
+- Test it: `npm test`
+
+## R2-D2 Exercise
 The year is 1977, Star Wars: A New Hope has just been released.  The true hero of the film, R2-D2 has acquired Death Star plans and needs to deliver them to Obi Wan Kenobi on the surface of Tatooine to help ensure victory for the rebellion.  The problem is that upon landing R2-D2 has lost all autonomy and needs your to help guide him safely to Obi Wan Kenobi through manual commands.
 
 ## Description
